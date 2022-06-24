@@ -1,0 +1,39 @@
+.link{
+    width:600px;
+    height:100px;
+    margin-left:330px;
+    margin-top: 100px;
+    text-align: center;
+}
+.link div h1{
+    color: white;
+}
+.link div input{
+    width: 400px;
+    height:45px;
+    text-align: center;
+}
+.link div button{
+    width: 50px;
+    height: 45px;
+}
+.what{
+    width: 45px;
+    height: 45px;
+    color: white;
+}
+.btnContainer{
+    
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.btn1{
+    background-color: rgb(28, 209, 28);
+    padding: 5px;
+    border-radius: 8px;
+}
+.btn2{
+    width:75px;
+    height: 40px;
+}
